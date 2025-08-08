@@ -10,7 +10,7 @@ This contract allows **patients** to:
 
 - Upload **encrypted hashes** (e.g. IPFS) of their medical records.
 - **Grant or revoke access** to doctors or hospitals.
-- Ensure only **authorized parties** can retrieve their health records. 
+- Ensure only **authorized parties** can retrieve their health records.  
 
 Doctors can:
 
