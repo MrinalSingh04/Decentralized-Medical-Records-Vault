@@ -6,7 +6,7 @@ A smart contract that enables **secure, patient-controlled access** to encrypted
 
 ## 💡 What is it?
 
-This contract allows **patients** to:
+This contract allows **patients** to: 
 
 - Upload **encrypted hashes** (e.g. IPFS) of their medical records.
 - **Grant or revoke access** to doctors or hospitals.
