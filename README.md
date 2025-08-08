@@ -3,7 +3,7 @@
 A smart contract that enables **secure, patient-controlled access** to encrypted medical records using Ethereum. Built for privacy-first healthcare solutions. 
  
 ---
-
+ 
 ## 💡 What is it?
  
 This contract allows **patients** to:  
