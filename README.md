@@ -1,7 +1,7 @@
 # 🏥 Decentralized Medical Records Vault
 
 A smart contract that enables **secure, patient-controlled access** to encrypted medical records using Ethereum. Built for privacy-first healthcare solutions.
-
+ 
 ---
 
 ## 💡 What is it?
