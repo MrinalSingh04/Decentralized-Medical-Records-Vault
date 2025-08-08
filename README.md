@@ -26,7 +26,7 @@ Doctors can:
 - 🧠 **Use Cases:**
   - Emergency hospitals can access data temporarily.
   - Patients switching hospitals/regions can share history securely.
-  - Health research (anonymized) via opt-in data vaults.
+  - Health research (anonymized) via opt-in data vaults. 
 
 ---
 
